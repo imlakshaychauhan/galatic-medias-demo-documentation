@@ -1,4 +1,9 @@
 # Galactic Medias
+
+<p align="center">
+  <img src="https://github.com/imlakshaychauhan/galatic-medias-demo-documentation/assets/70480042/1b5ee3c6-b76d-4f4e-9334-d0e6807fa283" alt="Black Simple Record Vlog Youtube Intro" width="700" height="350">
+</p>
+
 [Galactic Medias](https://galacticmedias.com/) is an AI-powered image and video editor that allows users to upload and edit their media files with ease. With features like image editing, video editing, and document processing, Galactic Medias offers a seamless editing experience for all your multimedia needs.
 
 ## Features
